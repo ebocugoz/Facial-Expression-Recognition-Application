@@ -18,3 +18,10 @@ Rotation: Firstly, we detected both right and left eye separately. Then, calcula
 Scaling: We want all faces to be in the center. So, we want the eyes to to be precisely at 25% and 75% of the image width and 20% of the image height.
 
 After calculating rotation and scaling matrices, we applied affine transformation by warpAffine function.Furthermore, we cropped each face as a square shape.
+ 
+### Result Example
+
+![alt text](https://raw.githubusercontent.com/ebocugoz/Sabanci-Computer-Vision-Project//master/Report/sad.png)
+
+![alt text](https://raw.githubusercontent.com/ebocugoz/Sabanci-Computer-Vision-Project//master/Report/surprise.png)
+

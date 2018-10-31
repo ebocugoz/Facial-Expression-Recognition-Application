@@ -22,7 +22,5 @@ After calculating rotation and scaling matrices, we applied affine transformatio
 ### Result Example
 https://github.com/ebocugoz/Sabanci-Computer-Vision-Project/blob/master/Report/sad.png
 
-![alt text](https://raw.githubusercontent.com/ebocugoz/Sabanci-Computer-Vision-Project/blob/master/Report/sad.png)
 
-![alt text](https://raw.githubusercontent.com/ebocugoz/Sabanci-Computer-Vision-Project/master/Report/surprise.png)
-
+![Image of Yaktocat](https://github.com/ebocugoz/Sabanci-Computer-Vision-Project/blob/master/Report/sad.png)

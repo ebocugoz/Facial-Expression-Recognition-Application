@@ -1,4 +1,4 @@
-# B.S Computer Vision Project 
+
 # Real-Time Facial Expression Recognition
 
 ### Used Dataset to train Ml Model
